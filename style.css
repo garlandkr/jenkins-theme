@@ -8,6 +8,13 @@
   background-image: none !important;
 }
 
+#jenkins-home-link {
+  color: white !important;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 200%;
+  text-decoration: none;
+}
+
 /********************   top panel styles      ***********************/
 .yui-skin-sam #top-panel {
   background-url: none;
